@@ -68,3 +68,5 @@ You can deploy the **unzipped folder contents** to a static hosting provider suc
 - Founder photographs were *not provided as actual JPEG bytes*; the website uses initials until `assets/team/` contains the four JPEG files.
 - The GitHub organization was not found among repositories accessible to the connected GitHub account; therefore this ZIP is **not a GitHub deployment**.
 - The company LinkedIn link looks like a demo URL. Confirm and update before making the site public.
+
+Official V.A.U.L.T. Security Hub website
